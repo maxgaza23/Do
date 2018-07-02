@@ -9,7 +9,7 @@ Change your LINE theme using Termux software
 
 # Usage
 
-Go to the folder you clone. Enter `./tactheme` to see how to use the sctipt. Make sure you downloaded the theme named "Cony" before using the script and apply it when you finished install your theme by using the script
+Go to the folder you clone. Enter `./tactheme` to see how to use the sctipt. Make sure you downloaded the theme named "Cony" before using the script and apply it when you finished install your theme by donovan
 
     $ ./tactheme
     Usage: ./tactheme (arg1) [arg2]
@@ -29,4 +29,4 @@ Go to the folder you clone. Enter `./tactheme` to see how to use the sctipt. Mak
     ./tactheme https://store.line.me/themeshop/product/793460b3-7514-42e1-8a04-4bb23c57c077
 
 # Author
-[Noxturnix](https://github.com/Noxturnix) from Noxtian team
+ from Donovan team
